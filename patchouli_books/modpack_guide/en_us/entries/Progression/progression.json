@@ -1,0 +1,45 @@
+{
+    "name": "Getting Started",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:progression_category",
+    "pages": [
+        {
+            "type": "text",
+			"title": "Intro",
+            "text": "Welcome! This guide should hopefully help answer any miscellaneous questions you may have. The main things you need to know are some general tips towards not getting stuck in the stone age, and some information on the skill system."
+        },
+		{
+			"type": "text",
+			"title": "The Beginning",
+			"text": "Upon entering this strange world, you'll find a yourself with a syringe and a copy of this book. The syringe will give you one random ability - but someday you may find the secret to getting more! You may also want to craft an Akashic Tome out of a stick."
+		},
+		{
+			"type": "text",
+			"title": "Early Game",
+			"text": "This world is full of dangerous enemies and deadly locations. Early on, you won't have access to shears or particularly powerful weapons - I'd recommend finding a village to seek shelter in and maybe steal a bed. Tinkers provides a couple alternatives to shears as well."
+		},
+		{
+			"type": "text",
+			"title": "Advancing",
+			"text": "Most things in major mods require suppies from the nether - but to get to the nether, you must first progress through the Twilight Forest and find a Lamp of Cinders. This can then be used to activate a nether portal."
+		},
+		{
+			"type": "spotlight",
+			"item": "twilightforest:lamp_of_cinders",
+			"title": "The Lamp of Cinders",
+			"text": "The Lamp of Cinders is found in the depths of the Twilight Forest, guarded by trolls deep in their caverns, hidden in a giant obsidian vault... This item is needed to unlock a nether portal. Right click a portal to unlock the depths of hell... if you dare."
+		},
+		{
+			"type": "text",
+			"title": "Industrializing",
+			"text": "Initially, once surviving the nether, you'll be limited to using immersive engineering and industrial renewal for tech - following the progression of immersive petroleum will open up endless technological possibilities."
+		},
+		{
+			"type": "link",
+			"title": "Advanced Rocketry",
+			"url": "https://www.youtube.com/watch?v=XAaM1xsY5KE",
+			"link_text": "Rocketry Tutorial",
+			"text": "Eventually, you'll reach a point where you can explore the vast reaches of space. Here's a pretty thorough spotlight/tutorial for Advanced Rocketry. Of the more core mods present in this pack, I felt this one needed the most help in documentation for players."
+		}
+    ]
+}

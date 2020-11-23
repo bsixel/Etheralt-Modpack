@@ -1,0 +1,7 @@
+{
+	"name": "Modpack Guide",
+	"landing_text": "A guide to surviving the madness",
+	"version": 1,
+	"book_texture": "patchouli:textures/gui/book_green.png",
+	"model": "patchouli:book_green"
+}
