@@ -5,7 +5,7 @@
 	"pages": [
 		{
 			"type": "text",
-			"title": "Reskillable: General",
+			"title": "Skills - General",
 			"text": "This modpack uses a lot of reskillable's capabilities to lock some content and abilities behind leveling skills. $(br)To get started, open your inventory and click the odd looking badge thing. Here you can level up skills and pick out traits once you have enough skills points and level.$(br) Helpful tip: Join a team! Skill levels and achievements are shared across teams."
 		},
 		{
@@ -27,6 +27,6 @@
 			"type": "text",
 			"title": "Skills - Mine/Gather",
 			"text": "$(li) Tools that have a mining level of an Iron Pickaxe or higher, and matching blocks: Mining and Gathering 7 $(li) Diamond Pickaxe or higher: Mining and Gathering 12 $(li) Cobalt or higher: Mining and Gathering 17 $(li) 5 or higher (mostly TAIGA blocks/tools): Mining and Gathering 22"
-		},
+		}
 	]
 }
