@@ -1,0 +1,2012 @@
+{
+    "comment": "There aren't any magic weapons by default, but you can add
+                the items yourself here. For more info about how to edit 
+                this file and add more files, visit 
+                https://bitbucket.org/Tmtravlr/qualitytools/wiki/Home",
+    
+    "slot": [
+        "mainhand",
+        "offhand"
+    ],
+    "whitelist": [
+	  {
+        "class": "ItemMSStaff"
+      },
+
+      {"class": "ItemWand"}
+
+	  
+    ],
+    "blacklist": [
+    
+    ],
+    "qualities": [
+	
+      {
+        "name": "normal",
+        "weight": 1000
+      },
+
+
+      {
+        "name": "Inferior Dented",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Weak",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.armorToughness",
+            "amount": -1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Unfocused",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "potioncore.magicShielding",
+            "amount": -2.0,
+            "operation": 0
+          }
+        ]
+      },
+      {
+        "name": "Inferior Unsteady",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.knockbackResistance",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Cumbersome",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Frail",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Clumsy",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Clunky",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Inept",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": -0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Unwieldy",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": -0.2,
+            "operation": 2
+          }
+		]
+	   },
+	  {
+        "name": "Inferior Awkward",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "potioncore.digSpeed",
+            "amount": -0.2,
+            "operation": 2
+          }
+		]
+	   },		  
+	  {
+        "name": "Inferior Feeble",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.attackKnockback",
+            "amount": -1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Inferior Stunted",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": -0.5,
+            "operation": 0
+          }	  
+        ]
+      },
+	  {
+        "name": "Inferior Vulnerable",
+        "color": "gray",
+        "weight": 50,
+        "attributes": [
+          {
+            "name": "potioncore.damageResistance",
+            "amount": -0.05,
+            "operation": 2
+          }	  
+        ]
+      },	  
+	  
+
+	  
+	  {
+        "name": "Superior Stalwart",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 2.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Stalwart",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 4.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Stalwart",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 6.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Stalwart",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 8.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Stalwart",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 10.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  
+	  {
+        "name": "Superior Protective",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Protective",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 0.4,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Protective",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 0.6,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Protective",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 0.8,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Protective",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": 1.0,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Tough",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.armorToughness",
+            "amount": 1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Tough",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.armorToughness",
+            "amount": 2.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Tough",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.armorToughness",
+            "amount": 3.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Tough",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.armorToughness",
+            "amount": 4.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "tough5",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.armorToughness",
+            "amount": 8.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Focused",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.magicShielding",
+            "amount": 1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Focused",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.magicShielding",
+            "amount": 2.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Focused",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.magicShielding",
+            "amount": 3.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Focused",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.magicShielding",
+            "amount": 4.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Focused",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.magicShielding",
+            "amount": 8.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Steady",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.knockbackResistance",
+            "amount": 0.1,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Steady",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.knockbackResistance",
+            "amount": 0.25,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Steady",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.knockbackResistance",
+            "amount": 0.5,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Steady",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.knockbackResistance",
+            "amount": 0.75,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Steady",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.knockbackResistance",
+            "amount": 1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Traversing",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Traversing",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": 0.25,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Traversing",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": 0.5,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Traversing",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": 0.75,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Traversing",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": 1.0,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Vigorous",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 2.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Vigorous",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 4.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Vigorous",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 6.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Vigorous",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 8.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Vigorous",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 10.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Robust",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Robust",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Robust",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 0.3,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Robust",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 0.4,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Robust",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 0.5,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Vicious",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 5.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Vicious",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 10.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Vicious",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 15.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Vicious",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 20.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Vicious",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 25.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Ruthless",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Ruthless",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.4,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Ruthless",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.6,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Ruthless",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 0.8,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Ruthless",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 1.0,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Assault",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 5.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Assault",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 10.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Assault",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 15.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Assault",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 20.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Assault",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 25.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Strike",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Strike",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.4,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Strike",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.6,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Strike",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.8,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Strike",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 1.0,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  
+	  {
+        "name": "Superior Arcane",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 5.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Arcane",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 10.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Arcane",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 15.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Arcane",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 20.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Arcane",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 25.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Mystic",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 0.2,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Mystic",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 0.4,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Mystic",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 0.6,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Mystic",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 0.8,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Mystic",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 1.0,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Swift",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Swift",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Swift",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Swift",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Swift",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+
+
+	  {
+        "name": "Superior Driven",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Rare Driven",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Driven",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Epic Driven",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Driven",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Superior Brutal",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.attackKnockback",
+            "amount": 0.5,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Brutal",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.attackKnockback",
+            "amount": 1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Brutal",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.attackKnockback",
+            "amount": 1.5,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Brutal",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.attackKnockback",
+            "amount": 2.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Brutal",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackKnockback",
+            "amount": 3.0,
+            "operation": 0
+          }
+        ]
+      },
+
+	  
+	  {
+        "name": "Superior Longreach",
+        "color": "green",
+        "weight": 200,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 0.5,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Rare Longreach",
+        "color": "blue",
+        "weight": 30,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 1.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Masterwork Longreach",
+        "color": "light_purple",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 1.5,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Epic Longreach",
+        "color": "yellow",
+        "weight": 10,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 2.0,
+            "operation": 0
+          }
+        ]
+      },
+	  {
+        "name": "Legendary Longreach",
+        "color": "red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.reachDistance",
+            "amount": 2.5,
+            "operation": 0
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Inferior Wretched",
+        "color": "dark-gray",
+        "weight": 15,
+        "attributes": [
+          {
+            "name": "generic.armor",
+            "amount": -0.2,
+            "operation": 2
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": -1.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": -1.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.knockbackResistance",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.movementSpeed",
+            "amount": -0.1,
+            "operation": 2
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": -0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackKnockback",
+            "amount": -1.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.reachDistance",
+            "amount": -0.5,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.damageResistance",
+            "amount": -0.05,
+            "operation": 2
+          }	  
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Legendary Superior",
+        "color": "dark_red",
+        "weight": 5,
+        "attributes": [
+		  {
+            "name": "generic.armor",
+            "amount": 2.0,
+            "operation": 0
+          },
+          {
+            "name": "generic.armor",
+            "amount": 0.2,
+            "operation": 2
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 1.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 1.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.knockbackResistance",
+            "amount": 0.1,
+            "operation": 2
+          },
+		  {
+            "name": "generic.movementSpeed",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 2.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 5.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 5.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 5.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": 0.1,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.1,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackKnockback",
+            "amount": 1.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.reachDistance",
+            "amount": 0.25,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.damageResistance",
+            "amount": 0.01,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Legendary Rare",
+        "color": "dark_red",
+        "weight": 4,
+        "attributes": [
+		  {
+            "name": "generic.armor",
+            "amount": 4.0,
+            "operation": 0
+          },
+          {
+            "name": "generic.armor",
+            "amount": 0.4,
+            "operation": 2
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 2.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 2.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.knockbackResistance",
+            "amount": 0.25,
+            "operation": 2
+          },
+		  {
+            "name": "generic.movementSpeed",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 4.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 10.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 10.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 10.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.2,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackKnockback",
+            "amount": 2.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.reachDistance",
+            "amount": 0.5,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.damageResistance",
+            "amount": 0.02,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Legendary Masterwork",
+        "color": "dark_red",
+        "weight": 3,
+        "attributes": [
+		  {
+            "name": "generic.armor",
+            "amount": 6.0,
+            "operation": 0
+          },
+          {
+            "name": "generic.armor",
+            "amount": 0.6,
+            "operation": 2
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 3.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 3.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.knockbackResistance",
+            "amount": 0.5,
+            "operation": 2
+          },
+		  {
+            "name": "generic.movementSpeed",
+            "amount": 0.6,
+            "operation": 2
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 6.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 0.3,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 15.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 0.6,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 15.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.6,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 15.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 0.6,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": 0.3,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.3,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackKnockback",
+            "amount": 3.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.reachDistance",
+            "amount": 1.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.damageResistance",
+            "amount": 0.03,
+            "operation": 2
+          }
+        ]
+      },
+	  
+	  
+	  {
+        "name": "Legendary Epic",
+        "color": "dark_red",
+        "weight": 2,
+        "attributes": [
+		  {
+            "name": "generic.armor",
+            "amount": 8.0,
+            "operation": 0
+          },
+          {
+            "name": "generic.armor",
+            "amount": 0.8,
+            "operation": 2
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 4.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 4.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.knockbackResistance",
+            "amount": 0.75,
+            "operation": 2
+          },
+		  {
+            "name": "generic.movementSpeed",
+            "amount": 0.8,
+            "operation": 2
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 8.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 20.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 0.8,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 20.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 0.8,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 20.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 0.8,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.4,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackKnockback",
+            "amount": 4.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.reachDistance",
+            "amount": 1.5,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.damageResistance",
+            "amount": 0.04,
+            "operation": 2
+          }		  
+        ]
+      },	  
+	  
+	  
+	  {
+        "name": "Legendary Mythic",
+        "color": "dark_red",
+        "weight": 1,
+        "attributes": [
+		  {
+            "name": "generic.armor",
+            "amount": 10.0,
+            "operation": 0
+          },
+          {
+            "name": "generic.armor",
+            "amount": 1.0,
+            "operation": 2
+          },
+          {
+            "name": "generic.armorToughness",
+            "amount": 5.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 5.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.knockbackResistance",
+            "amount": 1.0,
+            "operation": 2
+          },
+		  {
+            "name": "generic.movementSpeed",
+            "amount": 1.0,
+            "operation": 2
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 10.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.maxHealth",
+            "amount": 0.5,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 25.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.attackDamage",
+            "amount": 1.0,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 25.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.projectileDamage",
+            "amount": 1.0,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 25.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.magicDamage",
+            "amount": 1.0,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": 0.5,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.5,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackKnockback",
+            "amount": 5.0,
+            "operation": 0
+          },
+		  {
+            "name": "generic.reachDistance",
+            "amount": 2.0,
+            "operation": 0
+          },
+		  {
+            "name": "potioncore.damageResistance",
+            "amount": 0.05,
+            "operation": 2
+          }		  
+        ]
+      },
+
+
+
+      {
+        "name": "Legendary Athletic",
+        "color": "dark_red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.movementSpeed",
+            "amount": 1.0,
+            "operation": 2
+          },
+		  {
+            "name": "generic.attackSpeed",
+            "amount": 0.5,
+            "operation": 2
+          },
+		  {
+            "name": "potioncore.digSpeed",
+            "amount": 0.5,
+            "operation": 2
+          }
+        ]
+      },
+	  
+      {
+        "name": "Legendary Malevolent",
+        "color": "dark_red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 25.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 25.0,
+            "operation": 0
+          },
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 25.0,
+            "operation": 0
+          }
+        ]
+      },
+	  
+      {
+        "name": "Legendary Merciless",
+        "color": "dark_red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.attackDamage",
+            "amount": 1.0,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.projectileDamage",
+            "amount": 1.0,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.magicDamage",
+            "amount": 1.0,
+            "operation": 2
+          }
+        ]
+      },
+	  
+      {
+        "name": "Legendary Undying",
+        "color": "dark_red",
+        "weight": 5,
+        "attributes": [
+          {
+            "name": "generic.maxHealth",
+            "amount": 0.5,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.damageResistance",
+            "amount": 0.05,
+            "operation": 2
+          },
+          {
+            "name": "potioncore.magicShielding",
+            "amount": 5,
+            "operation": 0
+          }
+        ]
+	  }
+   ]
+}   

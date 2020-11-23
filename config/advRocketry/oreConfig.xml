@@ -1,0 +1,9 @@
+<OreConfig>
+	<oreGen pressure="3" temp="0">
+		<ore block="taiga:vibranium_ore" minHeight="1" maxHeight="64" clumpSize="16" chancePerChunk="16" />
+		<ore block="thermalfoundation:ore" meta="7" minHeight="1" maxHeight="64" clumpSize="16" chancePerChunk="16" />
+		<ore block="thermalfoundation:ore" meta="6" minHeight="1" maxHeight="64" clumpSize="16" chancePerChunk="16" />
+		<ore block="libvulpes:ore0" minHeight="1" maxHeight="64" clumpSize="16" chancePerChunk="16" />
+		<ore block="iceandfire:dragonsteel_fire_block" minHeight="1" maxHeight="64" clumpSize="16" chancePerChunk="16" />
+	</oreGen>
+</OreConfig>

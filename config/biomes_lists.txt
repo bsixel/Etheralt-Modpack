@@ -1,0 +1,18 @@
+advancedrocketry:alien forest
+
+// Weald - "a wild or uncultivated usually upland region" - south east england apparently
+minecraft:ocean,minecraft:plains,minecraft:desert,minecraft:extreme_hills,minecraft:forest,minecraft:taiga,minecraft:swampland,minecraft:frozen_ocean,minecraft:ice_flats,minecraft:ice_mountains,minecraft:mushroom_island,minecraft:mushroom_island_shore,minecraft:desert_hills,minecraft:forest_hills,minecraft:taiga_hills,minecraft:smaller_extreme_hills,minecraft:jungle,minecraft:jungle_hills,minecraft:jungle_edge,minecraft:deep_ocean,minecraft:birch_forest,minecraft:birch_forest_hills,minecraft:roofed_forest,minecraft:taiga_cold,minecraft:taiga_cold_hills,minecraft:redwood_taiga,minecraft:redwood_taiga_hills,minecraft:extreme_hills_with_trees,minecraft:savanna,minecraft:savanna_rock,minecraft:mesa,minecraft:mesa_rock,minecraft:mesa_clear_rock,minecraft:mutated_plains,minecraft:mutated_desert,minecraft:mutated_extreme_hills,minecraft:mutated_forest,minecraft:mutated_taiga,minecraft:mutated_swampland,minecraft:mutated_ice_flats,minecraft:mutated_jungle,minecraft:mutated_jungle_edge,minecraft:mutated_birch_forest,minecraft:mutated_birch_forest_hills,minecraft:mutated_roofed_forest,minecraft:mutated_taiga_cold,minecraft:mutated_redwood_taiga,minecraft:mutated_redwood_taiga,minecraft:mutated_extreme_hills_with_trees,minecraft:mutated_savanna,minecraft:mutated_savanna_rock,minecraft:mesa,minecraft:mutated_mesa_rock,minecraft:mutated_mesa_clear_rock
+// Ecclectic Alien
+minecraft:ocean,minecraft:mushroom_island,minecraft:mushroom_island_shore,advancedrocketry:alien forest,advancedrocketry:marsh,advancedrocketry:stormland,netherex:fungi_forest,byg:bcrystal_canyons,advancedrocketry:crystalchasms
+// Swampy
+minecraft:swampland,advancedrocketry:deepswamp,advancedrocketry:marsh,byg:bbayou,byg:bbog,byg:bdeadsea,byg:bmarshlands,traverse:green_swamp,byg:bmangrovemarshes,byg:bquagmire,byg:bweepingwitchforest,byg:bglowshroombayou
+// Desert Rock
+minecraft:desert,minecraft:desert_hills,minecraft:mutated_desert,byg:blushdesert,byg:blushdesert,byg:bshrublands,byg:boutback
+// Mesa Planet
+minecraft:mesa,minecraft:mesa_rock,minecraft:mesa_clear_rock,traverse:canyon,minecraft:mesa,minecraft:mutated_mesa_rock,minecraft:mutated_mesa_clear_rock,traverse:canyon,byg:boutback
+// Jungle Planet
+minecraft:ocean,minecraft:jungle,minecraft:jungle_hills,minecraft:jungle_edge,minecraft:mutated_jungle,climaticbiomesjbg:montane_jungle,minecraft:mutated_jungle_edge,byg:btropical_islands,byg:btropicalrainforest
+// Hellish Wasteland
+minecraft:hell,twilightforest:fire_swamp,climaticbiomesjbg:active_volcano,netherex:ruthless_sands,traverse:crag_cliffs,netherex:torrid_wasteland,nuclearcraft:nuclear_wasteland
+// Frozen Rock
+minecraft:ocean,minecraft:ice_flats,minecraft:ice_mountains,traverse:glacier,byg:balps,minecraft:mutated_ice_flats,advancedrocketry:crystalchasms

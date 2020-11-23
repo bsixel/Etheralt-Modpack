@@ -1,0 +1,379 @@
+-minecraft:ocean	Ocean
+-minecraft:plains	Plains
+-minecraft:desert	Desert
+-minecraft:extreme_hills	Extreme Hills
+-minecraft:forest	Forest
+-minecraft:taiga	Taiga
+-minecraft:swampland	Swampland
+-minecraft:river	River
+-minecraft:hell	Hell
+-minecraft:sky	The End
+-minecraft:frozen_ocean	FrozenOcean
+-minecraft:frozen_river	FrozenRiver
+-minecraft:ice_flats	Ice Plains
+-minecraft:ice_mountains	Ice Mountains
+-minecraft:mushroom_island	MushroomIsland
+-minecraft:mushroom_island_shore	MushroomIslandShore
+-minecraft:beaches	Beach
+-minecraft:desert_hills	DesertHills
+-minecraft:forest_hills	ForestHills
+-minecraft:taiga_hills	TaigaHills
+-minecraft:smaller_extreme_hills	Extreme Hills Edge
+-minecraft:jungle	Jungle
+-minecraft:jungle_hills	JungleHills
+-minecraft:jungle_edge	JungleEdge
+-minecraft:deep_ocean	Deep Ocean
+-minecraft:stone_beach	Stone Beach
+-minecraft:cold_beach	Cold Beach
+-minecraft:birch_forest	Birch Forest
+-minecraft:birch_forest_hills	Birch Forest Hills
+-minecraft:roofed_forest	Roofed Forest
+-minecraft:taiga_cold	Cold Taiga
+-minecraft:taiga_cold_hills	Cold Taiga Hills
+-minecraft:redwood_taiga	Mega Taiga
+-minecraft:redwood_taiga_hills	Mega Taiga Hills
+-minecraft:extreme_hills_with_trees	Extreme Hills+
+-minecraft:savanna	Savanna
+-minecraft:savanna_rock	Savanna Plateau
+-minecraft:mesa	Mesa
+-minecraft:mesa_rock	Mesa Plateau F
+-minecraft:mesa_clear_rock	Mesa Plateau
+-jeid:error_biome	A mod doesn't support extended biome IDs -- report to JEID
+-randomthings:spectral	Spectral
+-appliedenergistics2:storage_biome	Storage Cell
+-twilightforest:twilight_lake	Twilight Lake
+-twilightforest:twilight_forest	Twilight Forest
+-twilightforest:dense_twilight_forest	Dense Twilight Forest
+-twilightforest:twilight_highlands	Twilight Highlands
+-twilightforest:mushroom_forest	Mushroom Forest
+-twilightforest:twilight_swamp	Twilight Swamp
+-twilightforest:twilight_stream	Twilight Stream
+-twilightforest:snowy_forest	Snowy Forest
+-twilightforest:twilight_glacier	Twilight Glacier
+-twilightforest:twilight_clearing	Twilight Clearing
+-twilightforest:oak_savannah	Oak Savanna
+-twilightforest:firefly_forest	Firefly Forest
+-twilightforest:deep_mushroom_forest	Deep Mushroom Forest
+-twilightforest:dark_forest	Dark Forest
+-twilightforest:enchanted_forest	Enchanted Forest
+-twilightforest:fire_swamp	Fire Swamp
+-twilightforest:dark_forest_center	Dark Forest Center
+-twilightforest:highlands_center	Final Plateau
+-twilightforest:thornlands	Thornlands
+-twilightforest:spooky_forest	Spooky Forest
+-aoa3:abyss	Abyssal Wastelands
+-aoa3:ancient_cavern	Ancient Cavern
+-aoa3:barathos	Barathos
+-aoa3:candyland	Candyland
+-aoa3:celeve	Celeve
+-aoa3:creeponia	Creeponia
+-aoa3:crystevia	Crystevia
+-aoa3:deeplands	Deeplands
+-aoa3:dustopia	Dustopian Forest
+-aoa3:gardencia	Gardencia
+-aoa3:greckon	Greckon
+-aoa3:haven	Haven
+-aoa3:immortallis	Immortallis
+-aoa3:iromine	Iromine
+-aoa3:lborean	L'Borean Ponds
+-aoa3:lelyetia	Lelyetia
+-aoa3:lunalus	Lunalus
+-aoa3:mysterium	Mysterium
+-aoa3:precasia	Precasian Forest
+-aoa3:runandor	Runandor
+-aoa3:shyrelands	Shyrelands
+-aoa3:vox_ponds	Vox Ponds
+-iceandfire:glacier	Glacier
+-atum:dead_oasis	Dead Oasis
+-atum:deadwood_forest	Deadwood Forest
+-atum:dried_river	Dried River
+-atum:limestone_crags	Limestone Crags
+-atum:limestone_mountains	Limestone Mountains
+-atum:oasis	Oasis
+-atum:sand_dunes	Sand Dunes
+-atum:sand_hills	Sand Hills
+-atum:sand_plains	Sand Plains
+-climaticbiomesjbg:subtropical_forest	Subtropical Forest
+-climaticbiomesjbg:tropical_forest	Tropical Forest
+-climaticbiomesjbg:pine_swamp	Pine Woods
+-climaticbiomesjbg:subtropical_forest_hills	Subtropical Forest Hills
+-climaticbiomesjbg:tropical_forest_hills	Tropical Forest Hills
+-climaticbiomesjbg:dense_scrub	Dense Scrub
+-climaticbiomesjbg:dry_scrub	Dry Scrub
+-climaticbiomesjbg:dense_scrub_hills	Dense Scrub Hills
+-climaticbiomesjbg:dry_scrub_hills	Dry Scrub Hills
+-climaticbiomesjbg:warm_mountain	Warm Extreme Hills
+-climaticbiomesjbg:warm_mountain_trees	Warm Forested Extreme Hills
+-climaticbiomesjbg:hot_mountain	Tropical Extreme Hills
+-climaticbiomesjbg:hot_mountain_trees	Tropical Forested Extreme Hills
+-climaticbiomesjbg:active_volcano	Active Volcano
+-climaticbiomesjbg:cool_montane_forest	Cool Montane Forest
+-climaticbiomesjbg:warm_montane_forest	Warm Montane Forest
+-climaticbiomesjbg:montane_jungle	Montane Jungle
+-climaticbiomesjbg:dry_montane_forest	Dry Montane Forest
+-climaticbiomesjbg:cool_plains	Cool Plains
+-climaticbiomesjbg:windswept_plains	Windswept Plains
+-climaticbiomesjbg:cool_windswept_plains	Cool Windswept Plains
+-climaticbiomesjbg:cold_plains	Cold Plains
+-climaticbiomesjbg:bog	Bog
+-climaticbiomesjbg:carr	Carr
+-climaticbiomesjbg:marsh	Marsh
+-climaticbiomesjbg:temperate_river	Temporate River
+-climaticbiomesjbg:subtropical_river	Subtropical River
+-climaticbiomesjbg:tropical_river	Tropical River
+-climaticbiomesjbg:coastal_waters	Coastal Waters
+-climaticbiomesjbg:frozen_coastal_waters	Frozen Coastal Waters
+-integrateddynamics:biome_meneglin	Meneglin
+-netherex:ruthless_sands	Ruthless Sands
+-minecraft:void	The Void
+-netherex:fungi_forest	Fungi Forest
+-minecraft:mutated_plains	Sunflower Plains
+-minecraft:mutated_desert	Desert M
+-minecraft:mutated_extreme_hills	Extreme Hills M
+-minecraft:mutated_forest	Flower Forest
+-minecraft:mutated_taiga	Taiga M
+-minecraft:mutated_swampland	Swampland M
+-netherex:torrid_wasteland	Torrid Wasteland
+-netherex:arctic_abyss	Arctic Abyss
+-nt:aegean_archipelago	Aegean Archipelago
+-nt:alium_meadow	Alium Meadow
+-nt:autumn_forest	Autumn Forest
+-minecraft:mutated_ice_flats	Ice Plains Spikes
+-nt:autumn_forest_hills	Autumn Forest Hills
+-nt:birch_hills	Birch Hills
+-nt:blossom_forest	Blossom Forest
+-nt:blossom_forest_hills	Blossom Forest Hills
+-nt:estuary	Estuary
+-nt:fen	Fen
+-nt:fungal_jungle	Fungal Jungle
+-nt:fungal_jungle_hills	Fungal Jungle Hills
+-minecraft:mutated_jungle	Jungle M
+-nt:grass_hills	Grass Hills
+-minecraft:mutated_jungle_edge	JungleEdge M
+-nt:green_mixed_forest	Green Mixed Forest
+-nt:green_mixed_forest_hills	Green Mixed Forest Hills
+-nt:green_swamp	Green Swamp
+-minecraft:mutated_birch_forest	Birch Forest M
+-minecraft:mutated_birch_forest_hills	Birch Forest Hills M
+-minecraft:mutated_roofed_forest	Roofed Forest M
+-minecraft:mutated_taiga_cold	Cold Taiga M
+-nt:heath	Heath
+-minecraft:mutated_redwood_taiga	Mega Spruce Taiga
+-minecraft:mutated_redwood_taiga_hills	Redwood Taiga Hills M
+-minecraft:mutated_extreme_hills_with_trees	Extreme Hills+ M
+-minecraft:mutated_savanna	Savanna M
+-minecraft:mutated_savanna_rock	Savanna Plateau M
+-minecraft:mutated_mesa	Mesa (Bryce)
+-minecraft:mutated_mesa_rock	Mesa Plateau F M
+-minecraft:mutated_mesa_clear_rock	Mesa Plateau M
+-nt:highland	Highland
+-nt:hills	Hills
+-nt:hotspring	Hot Spring
+-nt:lake	Lake
+-nt:lowland	Lowland
+-nt:meadow	Meadow
+-nt:mixed_forest	Mixed Forest
+-nt:mixed_forest_hills	Mixed Forest Hills
+-nt:monsoon_forest	Monsoon Forest
+-nt:moorland	Moorland
+-nt:mountains	Mountains
+-nt:oak_forest	Oak Forest
+-nt:oak_forest_hills	Oak Forest Hills
+-nt:poppy_meadow	Poppy Meadow
+-nt:royal_forest	Royal Forest
+-nt:royal_forest_hills	Royal Forest Hills
+-nt:tall_oak_forest	Tall Oak Forest
+-nt:tall_oak_forest_hills	Tall Oak Forest Hills
+-nt:white_orchard	White Orchard
+-nt:pink_beach	Pink Beach
+-nt:purple_beach	Purple Beach
+-nt:orange_beach	Orange Beach
+-nt:white_beach	White Beach
+-nt:black_beach	Black Beach
+-nt:iron_beach	Iron Beach
+-nt:olivine_beach	Olivine Beach
+-nt:brown_beach	Brown Beach
+-nt:autumn_taiga	Autumn Taiga
+-nt:autumn_taiga_hills	Autumn Taiga Hills
+-nt:blue_taiga	Blue Taiga
+-nt:blue_taiga_hills	Blue Taiga Hills
+-nt:cliffs	Cliffs
+-nt:stone_fields	Stone Fields
+-nt:maple_forest	Maple Forest
+-nt:maple_forest_hills	Maple Forest Hills
+-nt:mega_autumn_taiga	Mega Autumn Taiga
+-nt:mega_autumn_taiga_hills	Mega Autumn Taiga Hills
+-nt:mega_blue_taiga	Mega Blue Taiga
+-nt:mega_blue_taiga_hills	Mega Blue Taiga Hills
+-nt:mega_maple_forest	Mega Maple Forest
+-nt:mega_maple_forest_hills	Mega Maple Forest Hills
+-nt:pineland	Pineland
+-nt:rocky_taiga	Rocky Taiga
+-nt:shrubland	Shrubland
+-nt:stone_mountains	Stone Mountains
+-nt:clayland	Clayland
+-nt:lush_desert	Lush Desert
+-nt:red_sand_dune	Red Sand Dune
+-nt:rockland	Rockland
+-nt:sahel	Sahel
+-nt:sand_dune	Sand Dune
+-nt:sandy_mountains	Sandy Mountains
+-nt:scrubland	Scrubland
+-nt:tropical_desert	Tropical Desert
+-nt:alps	Alps
+-nt:cold_birch_forest	Cold Birch Forest
+-nt:cold_birch_forest_hills	Cold Birch Forest Hills
+-nt:cold_blue_taiga	Cold Blue Taiga
+-nt:cold_blue_taiga_hills	Cold Blue Taiga Hills
+-nt:cold_desert	Cold Desert
+-nt:cold_flower_forest	Cold Flower Forest
+-nt:cold_flower_forest_hills	Cold Flower Forest Hills
+-nt:cold_forest	Cold Forest
+-nt:cold_forest_hills	Cold Forest Hills
+-nt:cold_mega_blue_taiga	Cold Mega Blue Taiga
+-nt:cold_mega_blue_taiga_hills	Cold Mega Blue Taiga Hills
+-nt:cold_mega_spruce_taiga	Cold Mega Spruce Taiga
+-nt:cold_mega_spruce_taiga_hills	Cold Mega Spruce Taiga Hills
+-nt:cold_mega_taiga	Cold Mega Taiga
+-nt:cold_mega_taiga_hills	Cold Mega Taiga Hills
+-nt:cold_roofed_forest	Cold Roofed Forest
+-nt:cold_roofed_forest_hills	Cold Roofed Forest Hills
+-nt:glacier	Glacier
+-nt:icy_tundra	Icy Tundra
+-nt:snowdune	Snow Dune
+-nt:tundra	Tundra
+-nuclearcraft:nuclear_wasteland	Nuclear Wasteland
+-traverse:autumnal_woods	Autumnal Woods
+-traverse:woodlands	Woodlands
+-traverse:mini_jungle	Mini Jungle
+-traverse:meadow	Meadow
+-traverse:green_swamp	Lush Swamp
+-traverse:red_desert	Red Desert
+-traverse:temperate_rainforest	Temperate Rainforest
+-traverse:badlands	Badlands
+-traverse:mountainous_desert	Mountainous Desert
+-traverse:rocky_plateau	Rocky Plateau
+-traverse:forested_hills	Forested Hills
+-traverse:birch_forested_hills	Birch Forested Hills
+-traverse:autumnal_wooded_hills	Autumnal Wooded Hills
+-traverse:cliffs	Cliffs
+-traverse:glacier	Glacier
+-traverse:glacier_spikes	Glacier Spikes
+-traverse:snowy_coniferous_forest	Snowy Coniferous Forest
+-traverse:lush_hills	Lush Hills
+-traverse:canyon	Canyon
+-traverse:crag_cliffs	Crag Cliffs
+-traverse:desert_shrubland	Desert Shrubland
+-traverse:thicket	Thicket
+-traverse:arid_highland	Arid Highland
+-traverse:rocky_plains	Rocky Plains
+-midnight:vigilant_forest	vigilant_forest
+-midnight:black_ridge	black_ridge
+-midnight:deceitful_bog	deceitful_bog
+-midnight:fungi_forest	fungi_forest
+-midnight:obscured_peaks	obscured_peaks
+-midnight:warped_fields	warped_fields
+-midnight:crystal_spires	crystal_spires
+-midnight:night_plains	night_plains
+-midnight:obscured_plateau	obscured_plateau
+-midnight:phantasmal_valley	phantasmal_valley
+-midnight:runebush_grove	runebush_grove
+-midnight:hilly_vigilant_forest	hilly_vigilant_forest
+-midnight:hilly_fungi_forest	hilly_fungi_forest
+-advancedrocketry:moon	Moon
+-advancedrocketry:alien forest	Alien Forest
+-advancedrocketry:hotdryrock	HotDryRock
+-advancedrocketry:space	Space
+-advancedrocketry:stormland	Stormland
+-advancedrocketry:crystalchasms	CrystalChasms
+-advancedrocketry:deepswamp	DeepSwamp
+-advancedrocketry:marsh	Marsh
+-advancedrocketry:oceanspires	OceanSpires
+-advancedrocketry:moondark	MoonDark
+-advancedrocketry:volcanic	Volcanic
+-advancedrocketry:volcanicbarren	VolcanicBarren
+-byg:bjacarandaforest	Jacaranda Forest
+-byg:bcikaforest	Cika Forest
+-byg:bwoodlands	Woodlands
+-byg:bredoakforest	Red Oak Forest
+-byg:bancientforest	Ancient Forest
+-byg:bgreatoaklowlands	Great Oak Lowlands
+-byg:bzelkovaforest	Zelkova Forest
+-byg:bskyrishighlands	Skyris Highlands
+-byg:bbluetaiga	Blue Taiga
+-byg:balps	Alps
+-byg:bborealforest	Boreal Forest
+-byg:bfungaljungle	Fungal Jungle
+-byg:bmangrovemarshes	Mangrove Marshes
+-byg:bseasonaltaiga	Seasonal Taiga
+-byg:bseasonalforest	Seasonal Forest
+-byg:bmapleforest	Maple Taiga
+-byg:bredwoodtropics	Redwood Tropics
+-byg:bcherrygrove	Cherry Grove
+-byg:bstellatapasture	Stellata Pasture
+-byg:borchard	Orchard
+-byg:bmeadow	Meadow
+-byg:bsonorandesert	Sonoran Desert
+-byg:btropicalrainforest	Tropical Rainforest
+-byg:bpinemountains	Pine Mountains
+-byg:bconiferousforest	Coniferous Forest
+-byg:bgrasslandplateau	Grassland Plateau
+-byg:bshrublands	Shrublands
+-byg:bglaciers	Glaciers
+-byg:bsavannacanopy	Savanna Canopy
+-byg:balliumfields	Allium Fields
+-byg:bquagmire	Quagmire
+-byg:bbog	Bog
+-byg:bdunes	Dunes
+-byg:breddesert	Red Desert
+-byg:bbayou	Bayou
+-byg:bdeadsea	Dead Sea
+-byg:bbaobabsavanna	Baobab Savanna
+-byg:bevergreentaiga	Evergreen Taiga
+-byg:bseasonaldeciduous	Seasonal Deciduous
+-byg:bchaparrallowlands	Chaparral Lowlands
+-byg:bdeciduousforest	Deciduous Forest
+-byg:bsnowyevergeentaiga	Snowy Evergreen Taiga
+-byg:bweepingwitchforest	Weeping Witch Forest
+-byg:bsnowypinemountains	Snowy Pine Mountains
+-byg:bsnowyconiferousforest	Snowy Coniferous Forest
+-byg:bfrostyforest	Frosty Forest
+-byg:bglowshroombayou	Glowshroom Bayou
+-byg:benchantedforest	Enchanted Forest
+-byg:btropicalmountains	Tropical Mountains
+-byg:bseasonalbirchforest	Seasonal Birch Forest
+-byg:bebonywoods	Ebony Woods
+-byg:blushdesert	Lush Desert
+-byg:boutback	Outback
+-byg:bwhisperingwoods	Whispering Woods
+-byg:bgreatlakes	Great Lakes
+-byg:bdovermoutains	Dover Mountains
+-byg:bamaranth_fields	Amaranth Fields
+-byg:bgiant_blue_spruce_taiga	Giant Blue Spruce Taiga
+-byg:bprairie	Prairie
+-byg:bgiant_seasonal_spruce_taiga	Giant Seasonal Spruce Taiga
+-byg:btropical_islands	Tropical Islands
+-byg:bcypress_swamplands	Cypress Swamplands
+-byg:boutlands	Outlands
+-byg:bred_outlands	Red Outlands
+-byg:bpine_lowlands	Pine Lowlands
+-byg:bbluff_mountains	Bluff Mountains
+-byg:bstone_brushlands	Stone Brushlands
+-byg:baspenforest	Aspen Forest
+-byg:bmarshlands	Marshlands
+-byg:bfloweringplains	Flowering Plains
+-byg:bsnowydeciduousforest	Snowy Deciduous Forest
+-byg:bnorthernforest	Northern Forest
+-byg:bgiant_snowy_spruce_taiga	Giant Snowy Spruce Taiga
+-byg:bcrystal_canyons	Crystal Canyons
+-byg:bcolored_canyons	Colored Canyons
+-thebetweenlands:patchy_islands	Patchy Islands
+-thebetweenlands:swamplands	Swamplands
+-thebetweenlands:deep_waters	Deep Waters
+-thebetweenlands:coarse_islands	Coarse Islands
+-thebetweenlands:raised_isles	Raised Isles
+-thebetweenlands:sludge_plains	Sludge Plains
+-thebetweenlands:marsh_0	Marsh 0
+-thebetweenlands:marsh_1	Marsh 1
+-thebetweenlands:swamplands_clearing	Swamplands Clearing
+-thebetweenlands:sludge_plains_clearing	Sludge Plains Clearing
