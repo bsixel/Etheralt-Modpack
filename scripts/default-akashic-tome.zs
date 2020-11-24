@@ -149,15 +149,6 @@ import crafttweaker.data.IData;
 			 },
 			 "Damage":0 as short
 		  },
-		  "roots":{
-			 "id":"patchouli:guide_book",
-			 "Count":1 as byte,
-			 "tag":{
-				"akashictome:definedMod":"roots",
-				"patchouli:book":"roots:roots_guide"
-			 },
-			 "Damage":0 as short
-		  },
 		  "environmentaltech":{
 			 "id":"valkyrielib:guide",
 			 "Count":1 as byte,

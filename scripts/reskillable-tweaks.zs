@@ -24,3 +24,8 @@ mods.compatskills.Requirement.addRequirement(<openglider:hang_glider_basic>, "re
 
 // Lock slime sling behind level 5 agility
 mods.compatskills.Requirement.addRequirement(<tconstruct:slimesling:*>, "reskillable:agility|5");
+
+// Lock all shears, not just the vanilla ones
+for item in itemUtils.getItemsByRegexRegistryName(".*shears.*") {
+	mods.compatskills.Requirement.addRequirement(item, "reskillable:gathering|5");
+}

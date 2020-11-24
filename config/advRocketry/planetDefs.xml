@@ -5,7 +5,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>1.0,1.0,1.0</skyColor>
             <gravitationalMultiplier>130</gravitationalMultiplier>
-            <orbitalDistance>200</orbitalDistance>
+            <orbitalDistance>40</orbitalDistance>
             <orbitalPhi>0</orbitalPhi>
             <rotationalPeriod>24000</rotationalPeriod>
             <atmosphereDensity>160</atmosphereDensity>
@@ -16,7 +16,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.82618,0.14542347</skyColor>
             <gravitationalMultiplier>98</gravitationalMultiplier>
-            <orbitalDistance>35</orbitalDistance>
+            <orbitalDistance>70</orbitalDistance>
             <orbitalPhi>-4</orbitalPhi>
             <rotationalPeriod>25499</rotationalPeriod>
             <atmosphereDensity>110</atmosphereDensity>
@@ -24,7 +24,7 @@
 		<planet name="Earth" DIMID="0" dimMapping="" customIcon="EarthLike">
 			<isKnown>true</isKnown>
 			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>70</orbitalDistance>
+			<orbitalDistance>100</orbitalDistance>
 			<orbitalTheta>0</orbitalTheta>
 			<planet name="Luna" DIMID="7002" customIcon="moon">
 				<isKnown>true</isKnown>
@@ -40,6 +40,7 @@
 				<isKnown>true</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
 				<skyColor>0.8,0.82618,0.14542347</skyColor>
+				<orbitalDistance>115</orbitalDistance>
 				<gravitationalMultiplier>100</gravitationalMultiplier>
 				<rotationalPeriod>46070</rotationalPeriod>
 				<atmosphereDensity>100</atmosphereDensity>
@@ -50,7 +51,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.23552197,0.5528875,1.0</skyColor>
             <gravitationalMultiplier>110</gravitationalMultiplier>
-            <orbitalDistance>195</orbitalDistance>
+            <orbitalDistance>150</orbitalDistance>
             <orbitalPhi>0</orbitalPhi>
             <rotationalPeriod>18031</rotationalPeriod>
             <atmosphereDensity>72</atmosphereDensity>
@@ -77,12 +78,29 @@
                 <biomeIds>advancedrocketry:alien_forest</biomeIds>
             </planet>
         </planet>
+        <planet DIMID="6999" name="Asteroid Belt">
+            <isKnown>true</isKnown>
+            <fogColor>0.0,0.0,0.0</fogColor>
+            <skyColor>0.0,0.0,0.0</skyColor>
+            <gravitationalMultiplier>14</gravitationalMultiplier>
+            <orbitalDistance>280</orbitalDistance>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>160</avgTemperature>
+            <rotationalPeriod>10000</rotationalPeriod>
+            <atmosphereDensity>0</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <genType>2</genType>
+            <biomeIds>advancedrocketry:space</biomeIds>
+        </planet>
         <planet name="Jupiter" DIMID="7007" customIcon="GasGiantRed">
             <isKnown>true</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.5878742,0.89389074,1.0</skyColor>
             <gravitationalMultiplier>104</gravitationalMultiplier>
-            <orbitalDistance>126</orbitalDistance>
+            <orbitalDistance>520</orbitalDistance>
             <orbitalPhi>-3</orbitalPhi>
             <rotationalPeriod>20150</rotationalPeriod>
 			<hasRings>true</hasRings>
@@ -95,7 +113,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.6596607,0.11383283</skyColor>
             <gravitationalMultiplier>126</gravitationalMultiplier>
-            <orbitalDistance>90</orbitalDistance>
+            <orbitalDistance>960</orbitalDistance>
             <orbitalPhi>-2</orbitalPhi>
             <rotationalPeriod>11997</rotationalPeriod>
             <atmosphereDensity>155</atmosphereDensity>
@@ -112,7 +130,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.5622388,0.620012</skyColor>
             <gravitationalMultiplier>112</gravitationalMultiplier>
-            <orbitalDistance>91</orbitalDistance>
+            <orbitalDistance>1200</orbitalDistance>
             <orbitalPhi>-3</orbitalPhi>
             <rotationalPeriod>17082</rotationalPeriod>
             <atmosphereDensity>100</atmosphereDensity>
@@ -122,7 +140,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.85336864,0.0</skyColor>
             <gravitationalMultiplier>85</gravitationalMultiplier>
-            <orbitalDistance>86</orbitalDistance>
+            <orbitalDistance>1300</orbitalDistance>
             <orbitalPhi>0</orbitalPhi>
 			<hasRings>true</hasRings>
 			<seaLevel>128</seaLevel>
@@ -143,7 +161,7 @@
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.0,0.5380826,1.0</skyColor>
             <gravitationalMultiplier>69</gravitationalMultiplier>
-            <orbitalDistance>155</orbitalDistance>
+            <orbitalDistance>1500</orbitalDistance>
             <orbitalPhi>0</orbitalPhi>
             <rotationalPeriod>73057</rotationalPeriod>
             <atmosphereDensity>13</atmosphereDensity>
@@ -154,7 +172,7 @@
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>1.0,1.0,1.0</skyColor>
 			<gravitationalMultiplier>100</gravitationalMultiplier>
-			<orbitalDistance>170</orbitalDistance>
+			<orbitalDistance>1600</orbitalDistance>
 			<orbitalTheta>280</orbitalTheta>
 			<orbitalPhi>0</orbitalPhi>
 			<rotationalPeriod>24000</rotationalPeriod>

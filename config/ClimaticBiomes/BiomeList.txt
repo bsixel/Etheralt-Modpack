@@ -106,15 +106,6 @@ aoa3:runandor
 aoa3:shyrelands
 aoa3:vox_ponds
 iceandfire:glacier
-atum:dead_oasis
-atum:deadwood_forest
-atum:dried_river
-atum:limestone_crags
-atum:limestone_mountains
-atum:oasis
-atum:sand_dunes
-atum:sand_hills
-atum:sand_plains
 climaticbiomesjbg:subtropical_forest
 climaticbiomesjbg:tropical_forest
 climaticbiomesjbg:pine_swamp

@@ -2,7 +2,7 @@
   "name": "glowstone",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
+  "loadDefault": false,
   "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
@@ -40,9 +40,5 @@
     }
   ],
   "mobSpawns": [
-    {
-      "mobId": "lycanitesmobs:zephyr",
-      "weight": 8
-    }
   ]
 }
