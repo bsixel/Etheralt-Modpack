@@ -6,12 +6,12 @@ gamma:1.0
 saturation:0.0
 renderDistance:16
 guiScale:3
-particles:1
+particles:0
 bobView:true
 anaglyph3d:false
-maxFps:120
+maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -91,6 +91,7 @@ key_pe.key.charge:79
 key_pe.key.extra_function:72
 key_pe.key.fire_projectile:80
 key_pe.key.mode:50
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -116,7 +117,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.lockBuilding:0
 key_psimisc.keybind:46
 key_rpsideas.kb.offhandcast:0
@@ -202,7 +202,7 @@ key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
-key_key.jei.bookmark:30
+key_key.jei.bookmark:0
 key_key.jei.toggleBookmarkOverlay:0
 key_tombstone.message.knowledge_of_death:0
 key_nei.options.keys.gui.botania_corporea_request:0
@@ -240,7 +240,7 @@ key_key.craftingtweaks.refill_last_stack:0
 key_key.keyExtraInvo:0
 key_key.keyWheel:0
 key_key.keyExtraCraftin:0
-key_key.clipboardPaste:210
+key_key.clipboardPaste:0
 key_key.projectex.focusSearchBar:0
 key_Open Backpack:45
 key_key.integrateddynamics.logic_programmer_focus_search:33:ALT
@@ -264,6 +264,12 @@ key_mekanism.key.mode:0
 key_mekanism.key.armorMode:0
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
+key_key.taiga.alt_action:0
+key_techguns.key.toggleNightvision:205
+key_techguns.key.toggleSafemode:0
+key_techguns.key.toggleStepassist:0
+key_techguns.key.forceReload:19
+key_techguns.key.toggleJetpack:0
 key_key.nutrition:0
 key_key.plustic_release_entity.desc:0
 key_key.plustic_toggle_gui.desc:0
@@ -276,17 +282,6 @@ key_key.porterNextDestination:27
 key_key.porterPrevDestination:26
 key_key.debugDumpNBTItem:0
 key_key.debugDumpNBTBlock:0
-key_key.taiga.alt_action:0
-key_techguns.key.toggleNightvision:205
-key_techguns.key.toggleSafemode:0
-key_techguns.key.toggleStepassist:0
-key_techguns.key.forceReload:0
-key_techguns.key.toggleJetpack:0
-key_key.radial_menu:0
-key_key.use_ring:19
-key_key.use_secondary_ring:0
-key_key.open_pouch:34
-key_key.connect_caving_rope:47
 key_Toggle Jetpack:200
 key_Open Rocket GUI:208
 key_Toggle RCS:0
@@ -312,6 +307,7 @@ key_key.journeymap.fullscreen.north:0
 key_key.journeymap.fullscreen.south:0
 key_key.journeymap.fullscreen.east:0
 key_key.journeymap.fullscreen.west:0
+key_Profile GUI:210
 key_enderio.keybind.inventory:0
 key_enderio.keybind.dsu:0
 key_enderio.keybind.glidertoggle:203
@@ -333,7 +329,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:0.25496688
+soundCategory_master:0.11589404
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

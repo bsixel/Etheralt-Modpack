@@ -8,7 +8,6 @@ val starterGuide = <patchouli:guide_book>.withTag({"patchouli:book": "patchouli:
 var availablePowers = [
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornEAT_GRASS", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornFIRE_PROOF", pure: 1 as byte}),
-	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornITEM_MAGNET", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornJUMP_BOOST", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornMILKY", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornMORE_HEARTS", pure: 1 as byte}),
