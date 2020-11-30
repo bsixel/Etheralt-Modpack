@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.0
-gamma:1.0
+gamma:0.0
 saturation:0.0
 renderDistance:16
 guiScale:3
@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -26,7 +26,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:false
+enableVsync:true
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:true
@@ -92,6 +92,7 @@ key_pe.key.extra_function:72
 key_pe.key.fire_projectile:80
 key_pe.key.mode:50
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -117,21 +118,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:0
-key_psimisc.keybind:46
-key_rpsideas.kb.offhandcast:0
-key_rpsideas.kb.switchslot01:0
-key_rpsideas.kb.switchslot02:0
-key_rpsideas.kb.switchslot03:0
-key_rpsideas.kb.switchslot04:0
-key_rpsideas.kb.switchslot05:0
-key_rpsideas.kb.switchslot06:0
-key_rpsideas.kb.switchslot07:0
-key_rpsideas.kb.switchslot08:0
-key_rpsideas.kb.switchslot09:0
-key_rpsideas.kb.switchslot10:0
-key_rpsideas.kb.switchslot11:0
-key_rpsideas.kb.switchslot12:0
 key_key.toggle_shaders:0
 key_key.cstats:0
 key_key.resources:199
@@ -146,12 +132,6 @@ key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.togglehud.desc:0
-key_key.davincis.up:0
-key_key.davincis.down:0
-key_key.davincis.brake:0
-key_key.davincis.align:0
-key_key.davincis.decompile:0
-key_key.davincis.shipinv:37
 key_key.findme.search:21
 key_Dragons Breath:0
 key_Teleport:0
@@ -171,6 +151,8 @@ key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_Difficulty Meter - Show:49
 key_Difficulty Meter - Show Always:49:SHIFT
+key_keys.servertabinfo.show:29
+key_keys.servertabinfo.show2:157
 key_key.toastcontrol.clear:81
 key_key.xat.trinket_gui.desc:0
 key_key.xat.trinket_target.desc:0
@@ -218,6 +200,7 @@ key_key.fuzzy:0
 key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:0
+key_Options Gui:23
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:0

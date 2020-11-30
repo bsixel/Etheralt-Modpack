@@ -37,6 +37,10 @@ events.onPlayerLoggedIn(function(event as crafttweaker.event.PlayerLoggedInEvent
 		val playerPower = availablePowers[Math.floor(Math.random() * availablePowers.length)];
 		logger.logInfo("New player has logged in: " + event.player.name);
 		logger.logInfo("Giving them " + playerPower.tag[0]);
+		playerPower.clearTooltip();
+		var tagText = playerPower.tag[0] as string;
+		var tooltip = "Power: " + tagText.substring(14).toLowerCase().replaceAll("_", " ");
+		playerPower.addTooltip(tooltip);
 		logger.logInfo("Giving them the standard akashictome");
 		// Give the player their ability
 		event.player.give(playerPower);

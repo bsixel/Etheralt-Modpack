@@ -32,6 +32,8 @@
 				<skyColor>0.0,0.0,0.0</skyColor>
 				<gravitationalMultiplier>17</gravitationalMultiplier>
 				<orbitalDistance>110</orbitalDistance>
+				<orbitalTheta>5</orbitalTheta>
+				<orbitalPhi>5</orbitalPhi>
 				<rotationalPeriod>72000</rotationalPeriod>
 				<atmosphereDensity>0</atmosphereDensity>
 				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
@@ -43,7 +45,7 @@
 				<gravitationalMultiplier>100</gravitationalMultiplier>
 				<orbitalDistance>115</orbitalDistance>
 				<orbitalTheta>280</orbitalTheta>
-				<orbitalPhi>0</orbitalPhi>
+				<orbitalPhi>270</orbitalPhi>
 				<rotationalPeriod>12000</rotationalPeriod>
 				<atmosphereDensity>100</atmosphereDensity>
 			</planet>

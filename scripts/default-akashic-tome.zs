@@ -149,13 +149,6 @@ import crafttweaker.data.IData;
 			 },
 			 "Damage":0 as short
 		  },
-		  "environmentaltech":{
-			 "id":"valkyrielib:guide",
-			 "Count":1 as byte,
-			 "tag":{
-				"akashictome:definedMod":"environmentaltech"
-			 }
-		  },
 		  "engineersdecor":{
 			 "id":"patchouli:guide_book",
 			 "Count":1 as byte,
@@ -241,12 +234,10 @@ import crafttweaker.data.IData;
 		<conarm:book>,
 		<immersiveengineering:tool>,
 		<patchouli:guide_book>,
-		<valkyrielib:guide>,
 		<projecte:item.pe_manual>,
 		<thermalfoundation:tome_lexicon>,
 		<opencomputers:tool>,
 		<cookingforblockheads:recipe_book>,
-		<guideapi:cyclicmagic-guide>,
 		<opencomputers:tool>,
 		<academy:tutorial>,
 		<appliedenergistics2:sky_compass>,
