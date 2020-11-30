@@ -10,12 +10,13 @@ recipes.addShaped("simple_chassis_enderio", <enderio:item_material>,
 					[steelIngot, lubricantBucket, steelIngot],
 					[<ore:barsIron>, steelIngot, <ore:barsIron>]]);
 
-// Thermal Expansion machine frame
-recipes.remove(<thermalexpansion:frame>);
+// Thermal Expansion machine frame NOTE: Currently thermal expansion has been removed due to oversaturation of tech mods
+/*recipes.remove(<thermalexpansion:frame>);
 recipes.addShaped("machine_frame_basic_thermal", <thermalexpansion:frame>, 
 					[[<ore:barsIron>, steelIngot, <ore:barsIron>], 
 					[steelIngot, lubricantBucket, steelIngot],
 					[<ore:barsIron>, steelIngot, <ore:barsIron>]]);
+*/
 					
 // Mekanism steel casing
 recipes.remove(<mekanism:basicblock:8>);
@@ -26,13 +27,14 @@ recipes.addShaped("steel_casing_mekanism", <mekanism:basicblock:8>,
 
 // Add OreDict for the base machine things
 val base_machine = oreDict.baseMachine;
-					
+
 // Add all the above to the base machine oreDict
-base_machine.addItems([<enderio:item_material>, <thermalexpansion:frame>, <mekanism:basicblock:8>]);
+//base_machine.addItems([<enderio:item_material>, <thermalexpansion:frame>, <mekanism:basicblock:8>]);
+base_machine.addItems([<enderio:item_material>, <mekanism:basicblock:8>]);
 
 // Make all recipes that take the above take any of them
 recipes.replaceAllOccurences(<enderio:item_material>, <ore:baseMachine>);
-recipes.replaceAllOccurences(<thermalexpansion:frame>, <ore:baseMachine>);
+//recipes.replaceAllOccurences(<thermalexpansion:frame>, <ore:baseMachine>);
 recipes.replaceAllOccurences(<mekanism:basicblock:8>, <ore:baseMachine>);
 
 

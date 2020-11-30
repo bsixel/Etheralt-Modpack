@@ -28,8 +28,8 @@ recipes.addShapeless(<cyclicmagic:battery_infinite>, [<cyclicmagic:battery>, fin
 // Thermal Expansion Creative Conversion Kit
 recipes.addShapeless(<thermalfoundation:upgrade:256>, [<thermalfoundation:upgrade:35>, finalStar]);
 
-// Thermal Creative Flux Capacitor
-recipes.addShapeless(<thermalexpansion:capacitor:32000>, [<thermalexpansion:capacitor:4>, finalStar]);
+// Thermal Creative Flux Capacitor NOTE: Thermal Expansion currently removed due to oversaturation of tech mods
+//recipes.addShapeless(<thermalexpansion:capacitor:32000>, [<thermalexpansion:capacitor:4>, finalStar]);
 
 // Thermal Creative Hypoinfuser
 recipes.addShapeless(<thermalinnovation:injector:32000>, [<thermalinnovation:injector:4>, finalStar]);
