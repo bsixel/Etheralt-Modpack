@@ -92,7 +92,6 @@ key_pe.key.extra_function:72
 key_pe.key.fire_projectile:80
 key_pe.key.mode:50
 key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -118,6 +117,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
 key_key.toggle_shaders:0
 key_key.cstats:0
 key_key.resources:199
@@ -253,7 +253,6 @@ key_techguns.key.toggleSafemode:0
 key_techguns.key.toggleStepassist:0
 key_techguns.key.forceReload:19
 key_techguns.key.toggleJetpack:0
-key_key.nutrition:0
 key_key.plustic_release_entity.desc:0
 key_key.plustic_toggle_gui.desc:0
 key_key.plustic_set_portal.desc:0
@@ -273,7 +272,6 @@ key_Rotate Vehicle Left:30
 key_Move Vehicle Up:0
 key_Move Vehicle Down:0
 key_Open Skill GUI:0
-key_key.control:29
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
