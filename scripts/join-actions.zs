@@ -13,7 +13,6 @@ var availablePowers = [
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornMORE_HEARTS", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornNIGHT_VISION", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornNO_FALL_DAMAGE", pure: 1 as byte}),
-	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornPHOTOSYNTHESIS", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornPOISON_PROOF", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornRESISTANCE", pure: 1 as byte}),
 	<geneticsreborn:glasssyringe:1>.withTag({owner: "none", "0": "GeneticsRebornSAVE_INVENTORY", pure: 1 as byte}),
@@ -36,10 +35,10 @@ events.onPlayerLoggedIn(function(event as crafttweaker.event.PlayerLoggedInEvent
 		// Pick a random special ability for the player
 		val playerPower = availablePowers[Math.floor(Math.random() * availablePowers.length)];
 		logger.logInfo("New player has logged in: " + event.player.name);
-		logger.logInfo("Giving them " + playerPower.tag[0]);
 		playerPower.clearTooltip();
 		var tagText = playerPower.tag[0] as string;
 		var tooltip = "Power: " + tagText.substring(14).toLowerCase().replaceAll("_", " ");
+		logger.logInfo("Giving the player " + tooltip);
 		playerPower.addTooltip(tooltip);
 		logger.logInfo("Giving them the standard akashictome");
 		// Give the player their ability

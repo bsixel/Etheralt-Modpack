@@ -132,15 +132,6 @@ import crafttweaker.data.IData;
 			 },
 			 "Damage":0 as short
 		  },
-		  "midnight":{
-			 "id":"patchouli:guide_book",
-			 "Count":1 as byte,
-			 "tag":{
-				"akashictome:definedMod":"midnight",
-				"patchouli:book":"midnight:eternal_night"
-			 },
-			 "Damage":0 as short
-		  },
 		  "conarm":{
 			 "id":"conarm:book",
 			 "Count":1 as byte,
@@ -167,20 +158,20 @@ import crafttweaker.data.IData;
 			 },
 			 "Damage":0 as short
 		  },
+		  "endreborn":{
+			 "id":"patchouli:guide_book",
+			 "Count":1 as byte,
+			 "tag":{
+				"akashictome:definedMod":"endreborn",
+				"patchouli:book":"endreborn:book"
+			 },
+			 "Damage":0 as short
+		  },
 		  rftools1:{
 			 "id":"rftools:rftools_shape_manual",
 			 "Count":1 as byte,
 			 "tag":{
 				"akashictome:definedMod":"rftools1"
-			 },
-			 "Damage":0 as short
-		  },
-		  "mysticalworld":{
-			 "id":"patchouli:guide_book",
-			 "Count":1 as byte,
-			 "tag":{
-				"akashictome:definedMod":"mysticalworld",
-				"patchouli:book":"mysticalworld:world_guide"
 			 },
 			 "Damage":0 as short
 		  },

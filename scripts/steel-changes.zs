@@ -58,3 +58,6 @@ recipes.addShaped("blast_brick_reinforced", <immersiveengineering:stone_decorati
 	[[null, steelPlate, null],
 	[steelPlate, blastBrick, steelPlate],
 	[null, steelPlate, null]]);
+	
+// Remove furnace recipes that only require... a furnace for steel. Too easy!
+furnace.remove(steel);

@@ -1,9 +1,5 @@
 import crafttweaker.item.IItemStack;
 
-# EXAMPLE ONLY DO NOT UNCOMMENT!
-# WOULD MAKE COBBLESTONE NOT DROP FROM BROKEN BLOCKS UNTIL MINING LEVEL 16.
-#mods.compatskills.BlockDropsLock.addBlockDropLock(<minecraft:cobblestone>, "reskillable:mining|16");
-
 # Tweak some Tinkers stuff
 # Lock modifiers, add casting stuff, tweak materials etc
 

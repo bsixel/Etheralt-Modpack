@@ -24,3 +24,10 @@ val glowstoneIngot = <mekanism:ingot:3>;
 // These new recipes will force the players to get pretty far in both tech and botania before even thinking about projecte
 recipes.addShaped("projecte_philosophers_stone_alt_new", <projecte:item.pe_philosophers_stone>.withTag({}), [[glowstoneIngot, elementiumIngot, glowstoneIngot], [elementiumIngot, vibraniumIngot, elementiumIngot], [glowstoneIngot, elementiumIngot, glowstoneIngot]]);
 recipes.addShaped("projecte_philosophers_stone_new", <projecte:item.pe_philosophers_stone>.withTag({}), [[elementiumIngot, glowstoneIngot, elementiumIngot], [glowstoneIngot, vibraniumIngot, glowstoneIngot], [elementiumIngot, glowstoneIngot, elementiumIngot]]);
+
+// Stone alch table - limited conversions, so it's accesible before normal Project E
+recipes.removeByRecipeName("projectex:stone_table");
+recipes.addShaped("projectex_stone_table_easy", <projectex:stone_table>, 
+	[[<minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>, <minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>, <minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>], 
+	 [<minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>, elementiumIngot, <minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>],
+	 [<minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>, <minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>, <minecraft:stonebrick> | <minecraft:stonebrick:1> | <minecraft:stonebrick:2> | <minecraft:stonebrick:3>]]);

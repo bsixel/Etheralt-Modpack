@@ -2,16 +2,22 @@ import crafttweaker.data.IData;
 import crafttweaker.item.IItemStack;
 import mods.ctutils.utils.Math;
 
-// Give XP for crafting if the player's building level is over 5
+
+# EXAMPLE ONLY DO NOT UNCOMMENT!
+# WOULD MAKE COBBLESTONE NOT DROP FROM BROKEN BLOCKS UNTIL MINING LEVEL 16.
+#mods.compatskills.BlockDropsLock.addBlockDropLock(<minecraft:cobblestone>, "reskillable:mining|16");
+
+
+// Give XP for crafting if the player's building level is over 10
 events.onPlayerCrafted(function(event as crafttweaker.event.PlayerCraftedEvent){
-    if (event.player.skillData.getSkillInfo(<skill:reskillable:building>).getLevel() >= 5 && Math.random() > 0.95) {
+    if (event.player.skillData.getSkillInfo(<skill:reskillable:building>).getLevel() >= 10 && Math.random() > 0.95) {
 		event.player.xp += 1;
 	}
 });
 
-// Give XP for mining things if the player is over mining level 5
+// Give XP for mining things if the player is over mining level 10
 events.onBlockBreak(function(event as crafttweaker.event.BlockBreakEvent){
-    if (event.isPlayer && event.player.skillData.getSkillInfo(<skill:reskillable:mining>).getLevel() >= 5 && Math.random() > 0.95) {
+    if (event.isPlayer && event.player.skillData.getSkillInfo(<skill:reskillable:mining>).getLevel() >= 10 && Math.random() > 0.95) {
 		event.experience += 1;
 	}
 });
