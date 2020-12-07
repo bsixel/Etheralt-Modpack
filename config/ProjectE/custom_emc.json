@@ -19,6 +19,14 @@
     {
       "item": "iceandfire:dragonsteel_ice_ingot|0",
       "emc": 100000
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:dragon_egg|0",
+      "emc": 0
     }
   ]
 }

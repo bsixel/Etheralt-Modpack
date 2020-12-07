@@ -1,1 +1,7 @@
-[]
+[
+	{
+		"maxspawndist": "1000",
+		"mob": "iceandfire:seaserpent",
+		"result": "deny"
+	}
+]

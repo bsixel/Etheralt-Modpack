@@ -1,5 +1,12 @@
-[{
-	"maxspawndist": "1000",
-	"mod": "lycanitesmobs",
-	"result": "deny"
-}]
+[
+	{
+		"maxspawndist": "1000",
+		"mod": "lycanitesmobs",
+		"result": "deny"
+	},
+	{
+		"maxspawndist": "1000",
+		"mob": "iceandfire:seaserpent",
+		"result": "deny"
+	}
+]
