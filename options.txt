@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.0
-gamma:0.0
+gamma:1.0
 saturation:0.0
 renderDistance:16
 guiScale:3
@@ -91,6 +91,13 @@ key_pe.key.charge:79
 key_pe.key.extra_function:72
 key_pe.key.fire_projectile:80
 key_pe.key.mode:50
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -109,15 +116,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_key.toggle_shaders:0
 key_key.cstats:0
 key_key.resources:199
@@ -201,6 +201,7 @@ key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:0
 key_Options Gui:23
+key_key.colytra.toggle.desc:34
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:0
