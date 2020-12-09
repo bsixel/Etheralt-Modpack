@@ -1,6 +1,7 @@
 AE2WTLib-1.12.2-1.0.34.jar
 AIImprovements-1.12-0.0.1b3.jar
 AcademyCraft-1.1.3.jar
+AdLods-1.12.2-1.0.8.0-build.0504.jar
 AdvancedRocketry-1.12.2-1.7.0-232-universal.jar
 AkashicTome-1.2-12.jar
 AoA3-3.3.6.jar
@@ -10,9 +11,7 @@ AutoRegLib-1.3-32.jar
 Avaritia's Complement-1.12.2-1.4.jar
 Avaritia-1.12.2-3.3.0.33-universal.jar
 Avaritiaddons-1.12.2-1.2.jar
-BadMobs-1.12.2-1.1.40.jar
 Baubles-1.12-1.5.2.jar
-BetterBedrock-1.12.2-5.1.11.jar
 BetterFps-1.4.8.jar
 BiomesYouGo1.7.1.jar
 Born In A Barn V1.8-1.12-1.1.jar
@@ -22,7 +21,6 @@ Bountiful Baubles-1.12.2-0.1.6.jar
 BringMeTheRings-0.4.jar
 BuildingGadgets-2.8.4.jar
 CTM-MC1.12.2-1.0.2.31.jar
-ChestTransporter-1.12.2-2.8.8.jar
 Chisel-MC1.12.2-1.0.2.45.jar
 Chunk Pregenerator V1.12-2.4E.jar
 ClimaticBiomes-2.15.8-MC1.12.2.jar
@@ -36,7 +34,6 @@ CompatSkills-1.12.2-1.17.0.jar
 Controlling-3.0.10.jar
 CookingForBlockheads_1.12.2-6.5.0.jar
 CoralReef-2.5-1.12.2.jar
-CosmeticArmorReworked-1.12.2-v5a.jar
 CraftTweaker2-1.12-4.1.20.586.jar
 CraftingTweaks_1.12.2-8.1.9.jar
 CreativeCore_v1.10.34_mc1.12.2.jar
@@ -46,7 +43,6 @@ DankNull-1.12.2-1.7.91.jar
 DeepSeaExpansion-1.12.2-Preview-A6.jar
 DynamicSurroundings-1.12.2-3.6.1.0.jar
 DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar
-ElevatorMod-1.12.2-1.3.14.jar
 EnderCore-1.12.2-0.5.76.jar
 EnderIO-1.12.2-5.2.66.jar
 EnderIO-endergy-1.12.2-5.2.66.jar
@@ -60,8 +56,9 @@ FTBLib-5.4.7.2.jar
 FastFurnace-1.12.2-1.3.1.jar
 FastLeafDecay-v14.jar
 FastWorkbench-1.12.2-1.7.3.jar
+FenceOverhaul-1.3.4.jar
 Fish's Undead Rising-1.2.3.jar
-Forgelin-1.8.4.jar
+ForgeEndertech-1.12.2-4.5.4.0-build.0534.jar
 HammerLib-1.12.2-2.0.6.23.jar
 ImmersiveCables-1.12.2-1.3.2.jar
 ImmersiveEngineering-0.12-98.jar
@@ -83,21 +80,18 @@ LagGoggles-1.12.2-5.8-132.jar
 LibVulpes-1.12.2-0.4.2-75-universal.jar
 LibraryEx-1.12.2-1.2.0.jar
 LittleTiles_v1.5.0-pre199_73_mc1.12.2.jar
-Login_Shield-1.12.2-6-g5654706.jar
 LootTweaker-0.2.0+MC1.12.2.jar
+MCTImmersiveTechnology-1.12.2-1.8.90.jar
 MTLib-3.0.6.jar
 Mantle-1.12-1.3.3.55.jar
 Mekanism-1.12.2-9.8.3.390.jar
 MekanismGenerators-1.12.2-9.8.3.390.jar
 MikesModsLib-1.0.2.jar
-Morpheus-1.12.2-3.5.106.jar
 MouseTweaks-2.10-mc1.12.2.jar
 NHCore-1.12-4.0.3.jar
-NaturalPledge-r3.1.2.jar
 NaturesCompass-1.12.2-1.8.5.jar
 NetherEx-1.12.2-2.2.1.jar
 NetherPortalFix_1.12.1-5.3.17.jar
-NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar
 NoMoreRecipeConflict-0.13(1.12.2).jar
 Novam Terram 1.12.2 - 7.3.jar
 NuclearCraft-2.18y-1.12.2.jar
@@ -118,7 +112,6 @@ ProjectEIntegration-1.12.2-2.3.1.jar
 ProjectEX-1.2.0.40.jar
 QualityTools-1.0.7_for_1.12.2.jar
 Quark-r1.6-179.jar
-QuarkOddities-1.12.2.jar
 RandomThings-MC1.12.2-4.2.7.4.jar
 RedstoneFlux-1.12-2.1.1.1-universal.jar
 Reskillable-1.12.2-1.13.0.jar
@@ -128,7 +121,6 @@ SereneSeasons-1.12.2-1.2.18-universal.jar
 ServerTabInfo-1.12.2-1.2.6.jar
 SilentLib-1.12.2-3.0.14+168.jar
 SolarFluxReborn-1.12.2-12.4.11.jar
-SpawnCommands-2.7.2alpha-mc1.12.2-forge-NoYLimitsConfigOption.jar
 Surge-1.12.2-2.0.77.jar
 TConstruct-1.12.2-2.13.0.183.jar
 ThermalFoundation-1.12.2-2.6.7.1-universal.jar
@@ -151,19 +143,18 @@ XPFromHarvest-1.12.2-1.2.0.jar
 YABBA-1.1.2.54.jar
 [1.12]MoVillages-1.5.4.jar
 ae2stuff-0.7.0.4-mc1.12.2.jar
-aiotbotania-0.7.1.jar
 appliedenergistics2-rv6-stable-7.jar
 armoryexpansion-1.4.2.jar
 avaritiaio-1.4.jar
-badwithernocookiereloaded-1.12.2-3.4.18.jar
 bdlib-1.14.3.12-mc1.12.2.jar
+botaniatweaks-1.9.1.jar
+carryon-1.12.2-1.12.3.15.jar
 colytra-1.12.2-1.2.0.4.jar
 conarm-1.12.2-1.2.5.9.jar
 crafttweakerutils-0.7.jar
 deepmoblearning-1.12.2-2.5.4-universal.jar
 deuf-1.1-1.12.2.jar
 draw_bridge-1.12.2-1.2.1.8.jar
-engineers_doors-1.12.2-0.9.1.jar
 engineersdecor-1.12.2-1.1.2.jar
 findme-1.12.2-1.1.0-8.jar
 fluxnetworks-1.12.2-4.0.15-32.jar
@@ -171,15 +162,14 @@ foamfix-0.10.10-1.12.2.jar
 geneticsreborn-1.12-1.29.jar
 iceandfire-1.9.1-1.12.2.jar
 immersivepetroleum-1.12.2-1.1.9.jar
-immersivetech-1.12-1.3.10.jar
 incontrol-1.12-3.9.18.jar
 instantunify-1.12.2-1.1.2.jar
 integratednbt-1.2.2.jar
 ironchest-1.12.2-7.0.72.847.jar
 jei_1.12.2-4.16.1.301.jar
+jeiintegration_1.12.2-1.6.0.jar
 journeymap-1.12.2-5.7.1.jar
 just-enough-harvestcraft-1.12.2-1.7.2.jar
-librarianlib-1.12.2-4.22.jar
 llibrary-1.7.20-1.12.2.jar
 lootcapacitortooltips-1.3.jar
 lycanitesmobs-1.12.2-2.0.7.2.jar
@@ -187,6 +177,7 @@ malisiscore-1.12.2-6.5.1.jar
 malisisdoors-1.12.2-7.3.0.jar
 mcjtylib-1.12-3.5.4.jar
 mekores-2.0.13.jar
+memory_repo/
 moartinkers-0.6.0.jar
 modnametooltip_1.12.2-1.10.1.jar
 modtweaker-4.0.18.jar
@@ -207,21 +198,16 @@ reauth-3.6.0.jar
 restrictedportals-1.12-0.6.3.jar
 rftools-1.12-7.73.jar
 roughmobsrevamped-1.12.2-2.3.21.jar
-rsgauges-1.12.2-1.2.5.jar
-savemystronghold-1.12.2-1.0.0.jar
-stg-1.12.2-1.2.3.jar
 stygian-1.0.4.jar
 taiga-1.12.2-1.3.4.jar
 techguns-1.12.2-2.0.2.0_pre3.2.jar
 theoneprobe-1.12-1.4.28.jar
 tinker_io-1.12.2-rw2.8.3.jar
 tinkersjei-1.2.jar
-tinkersoc-0.6.jar
 togetherforever-1.12.2-1.0.12-22.jar
 tombstone-4.0.1-1.12.2.jar
 torohealth-1.12.2-11.jar
 tweakersconstruct-1.12.2-1.5.5.jar
 twilightforest-1.12.2-3.11.1021-universal.jar
 u_team_core-1.12.2-2.2.5.147.jar
-villagesp_1.12-1.0.jar
 walljump-1.12.2-1.3.2.jar
