@@ -157,7 +157,6 @@ crafttweakerutils-0.7.jar
 deepmoblearning-1.12.2-2.5.4-universal.jar
 deuf-1.1-1.12.2.jar
 draw_bridge-1.12.2-1.2.1.8.jar
-engineersdecor-1.12.2-1.1.2.jar
 findme-1.12.2-1.1.0-8.jar
 fluxnetworks-1.12.2-4.0.15-32.jar
 foamfix-0.10.10-1.12.2.jar
