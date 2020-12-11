@@ -2,6 +2,7 @@
 
 /*import crafttweaker.event.IEventCancelable;
 //import crafttweaker.event.FarmlandTrampleEvent;
+//import mods.contenttweaker.Commands;
 
 // Handle some events specifically
 // Generally minor enhancements and QOL things
@@ -13,4 +14,6 @@ events.onFarmlandTrample(function(event as crafttweaker.event.FarmlandTrampleEve
 	}
 });*/
 
-// Make infinity gene work for tinkers arrows (check crafttweaker events to use)
+// Make infinity gene work for tinkers arrows (check crafttweaker events to use?)
+
+// Make eating grass from genetics replenish nutrition

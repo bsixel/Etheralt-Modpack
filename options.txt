@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:1.0
 saturation:0.0
-renderDistance:16
+renderDistance:12
 guiScale:3
 particles:1
 bobView:true
@@ -91,13 +91,6 @@ key_pe.key.charge:79
 key_pe.key.extra_function:72
 key_pe.key.fire_projectile:80
 key_pe.key.mode:50
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -117,6 +110,13 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_quark.keybind.lockBuilding:0
 key_key.toggle_shaders:0
 key_key.cstats:0
@@ -127,7 +127,6 @@ key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
 key_keybind.hammercorerenderstack:77
-key_cos.key.opencosarmorinventory:0
 key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
@@ -187,11 +186,11 @@ key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_tombstone.message.knowledge_of_death:0
-key_nei.options.keys.gui.botania_corporea_request:0
 key_key.dragon_fireAttack:0
 key_key.dragon_strike:0
 key_key.dragon_down:0
 key_key.dragon_change_view:0
+key_nei.options.keys.gui.botania_corporea_request:0
 key_key.settings_menu:34
 key_key.range:0
 key_key.undo:0
@@ -200,6 +199,7 @@ key_key.fuzzy:0
 key_key.connected_area:0
 key_key.rotate_mirror:0
 key_key.material_list:0
+key_key.carry.desc:42
 key_Options Gui:23
 key_key.colytra.toggle.desc:34
 key_key.toggleLiquids:38

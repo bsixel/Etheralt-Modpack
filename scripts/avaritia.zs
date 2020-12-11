@@ -2,10 +2,10 @@
 //mods.avaritia.addShapeless("shapeless-infinity-catalyst", <avaritia:resource:5>, );]
 
 // Only allow using the neutronium collector and condensor in space. Something about... neutrons get absorbed by the atmosphere so you can't do it on land?
-mods.compatskills.TileEntityLock.addTileEntityLock("minecraft:neutron_collector", "or|[dim|-2]~[dim|6999]");
-mods.compatskills.Requirement.addRequirement(<avaritia:neutron_collector>, "or|[dim|-2]~[dim|6999]");
-mods.compatskills.TileEntityLock.addTileEntityLock("minecraft:neutronium_compressor", "or|[dim|-2]~[dim|6999]");
-mods.compatskills.Requirement.addRequirement(<avaritia:neutronium_compressor>, "or|[dim|-2]~[dim|6999]");
+mods.compatskills.TileEntityLock.addTileEntityLock("minecraft:neutron_collector", "or|[dim|-2]~[dim|1]~[dim|6999]");
+mods.compatskills.Requirement.addRequirement(<avaritia:neutron_collector>, "or|[dim|-2]~[dim|1]~[dim|6999]");
+mods.compatskills.TileEntityLock.addTileEntityLock("minecraft:neutronium_compressor", "or|[dim|-2]~[dim|1]~[dim|6999]");
+mods.compatskills.Requirement.addRequirement(<avaritia:neutronium_compressor>, "or|[dim|-2]~[dim|1]~[dim|6999]");
 
 <avaritia:neutronium_compressor>.addTooltip(format.gold("Due to the strange nature of particle physics in this universe, it seems this can only be used in outer space..."));
 <avaritia:neutron_collector>.addTooltip(format.gold("Due to the strange nature of particle physics in this universe, it seems this can only be used in outer space..."));

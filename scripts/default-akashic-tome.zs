@@ -109,12 +109,12 @@ import crafttweaker.data.IData;
 			 "Damage":0 as short
 		  },
 		  "naturescompass":{
-			 "id":"<naturescompass:naturescompass>",
+			 "id":"naturescompass:naturescompass",
 			 "Count":1 as byte,
 			 "tag":{
 				"akashictome:definedMod":"naturescompass"
 			 },
-			 "Damage":1 as short
+			 "Damage":0 as short
 		  },
 		  "sereneseasons":{
 			 "id":"sereneseasons:season_clock",
@@ -158,15 +158,6 @@ import crafttweaker.data.IData;
 			 },
 			 "Damage":0 as short
 		  },
-		  "endreborn":{
-			 "id":"patchouli:guide_book",
-			 "Count":1 as byte,
-			 "tag":{
-				"akashictome:definedMod":"endreborn",
-				"patchouli:book":"endreborn:book"
-			 },
-			 "Damage":0 as short
-		  },
 		  rftools1:{
 			 "id":"rftools:rftools_shape_manual",
 			 "Count":1 as byte,
@@ -181,15 +172,6 @@ import crafttweaker.data.IData;
 			 "tag":{
 				"akashictome:definedMod":"twilightforest",
 				"patchouli:book":"twilightforest:guide"
-			 },
-			 "Damage":0 as short
-		  },
-		  "cyclicmagic":{
-			 "id":"guideapi:cyclicmagic-guide",
-			 "Count":1 as byte,
-			 "tag":{
-				"akashictome:definedMod":"cyclicmagic",
-				"G-API_Category_Page":0
 			 },
 			 "Damage":0 as short
 		  },
