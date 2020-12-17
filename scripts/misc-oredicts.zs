@@ -32,9 +32,9 @@ val prismarineBlock = <ore:blockPrismarine>;
 val prismarineShard = <minecraft:prismarine_shard>;
 val prismarineDust = <minecraft:prismarine_crystals>;
 // Hammers first
-recipes.addShapeless(prismarineShard*9, [prismarineBrick, plateHammerOredict.transformDamage()]);
-recipes.addShapeless(prismarineShard*4, [prismarineBlock, plateHammerOredict.transformDamage()]);
-recipes.addShapeless(prismarineDust, [prismarineShard, plateHammerOredict.transformDamage()]);
+recipes.addShapeless(prismarineShard*9, [prismarineBrick, plateHammerOredict]);
+recipes.addShapeless(prismarineShard*4, [prismarineBlock, plateHammerOredict]);
+recipes.addShapeless(prismarineDust, [prismarineShard, plateHammerOredict]);
 
 // Machine recipes - TODO: Might be able to let unify figure out the rest, just give it to one machine?
 // Nuclearcraft manufactory - shard -> dust already there

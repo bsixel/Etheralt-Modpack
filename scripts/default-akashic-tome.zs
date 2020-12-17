@@ -205,7 +205,7 @@ import crafttweaker.data.IData;
 		<integrateddynamics:on_the_dynamics_of_integration>,
 		<theoneprobe:probenote>,
 		<conarm:book>,
-		<immersiveengineering:tool>,
+		<immersiveengineering:tool:3>,
 		<patchouli:guide_book>,
 		<projecte:item.pe_manual>,
 		<thermalfoundation:tome_lexicon>,

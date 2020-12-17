@@ -35,26 +35,6 @@ function isInvalidSetItem(item as IItemStack, traitName as string) as bool {
 			|| item.tag.Traits.asList().length == 0;
 }
 
-// Only tinkers tools and armor are valid
-/*function isInvalidSetItem(item as IItemStack, traitName as string) as bool {
-	if (isNull(item) | isNull(traitName)) {
-		print("Null item or trait checking!");
-		return true;
-	}
-	if (!(item.definition.owner has "tconstruct") && !(item.definition.owner has "conarm")) {
-		print("Item is not a valid tinkers tool or conarm piece!");
-		return true;
-	}
-	if (isNull(item.tag)) {
-		print("Item has no NBT tags! This shouldn't even be possible for a tinkers tool...");
-		return true;
-	}
-	if (isNull(item.tag.Traits) || isNull(item.tag.Traits.asList())) {
-		print("Somehow this item doesn't have any traits, but is a tinkers tool, with tags...");
-	}
-	return item.tag.Traits.asList().length == 0;
-}*/
-
 // Takes a list of equipment slots, an entity, and the name of a trait
 // Returns a bool of whether the entity has the trait on all slots
 function matchesSet(itemSet as IEntityEquipmentSlot[], entity as IPlayer, traitName as string) as bool {
